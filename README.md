@@ -75,4 +75,4 @@ git clone https://github.com/andreibbb/online-medical-clinic-php-web-app.git
 
 ## License
 
-Distributed under the Apache License. See [LICENSE](https://github.com/andreibbb/online-medical-clinic-php-web-app/blob/main/LICENSE.md) for more information.
+Distributed under the Apache License. See [LICENSE](https://github.com/andreibbb/online-medical-clinic-php-web-app/blob/main/LICENSE) for more information.
