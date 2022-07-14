@@ -16,7 +16,7 @@
   </p>
 </p>
 
-![Stargazers](https://img.shields.io/github/stars/andreibbb/online-medical-clinic-php-web-app?style=social) ![License](https://img.shields.io/github/license/andreibbb/online-medical-clinic-php-web-app) 
+![Stargazers](https://img.shields.io/github/stars/andreibbb/online-medical-clinic-php-web-app?style=social) ![License]() 
 
 ## Table Of Contents
 
