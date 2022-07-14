@@ -1,0 +1,1 @@
+<?php if ( ! defined('BASEPATH')) redirect(base_url());
